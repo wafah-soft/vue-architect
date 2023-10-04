@@ -1,0 +1,21 @@
+{
+  "name": "vue-cli-plugin-myplugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "list-architecture": "vue-cli-service list-architecture"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1"
+  }
+}
